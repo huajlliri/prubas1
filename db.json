@@ -1,0 +1,25 @@
+{
+  "clientes": [],
+  "productos": [
+    {
+      "codigo": "qwe",
+      "marca": "qwe",
+      "nombre": "qwe",
+      "precio": "qwe",
+      "descripcion": "qwe",
+      "id": 1
+    },
+    {
+      "codigo": "wee",
+      "marca": "n",
+      "nombre": "gsdf",
+      "precio": "152563136",
+      "descripcion": "mdsnfsdflksdhfsndklfn ksfnm,sdnflsn sdkjfnsdhfksndfkndf sdf",
+      "id": 2
+    }
+  ],
+  "tipos_precio": [],
+  "precios_producto": [],
+  "ventas": [],
+  "detalles_venta": []
+}
